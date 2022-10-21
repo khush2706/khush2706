@@ -1,17 +1,15 @@
 # Hello Fellow < Developers/ >! <img src="https://camo.githubusercontent.com/0092ad4434a6214e925eeddd36d7eb880ef2dae0be925304df2b743f30544a2c/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313538383137373032302f383830392f776176655f68656c6c6f2e6769663f31353838313737303230" width="80px" height="70px">
-I'm Khushboo Chaturvedi, a Second Year Student currently pursuing my Bachelor's in Computer Science. I like learning, developing and music!
+I'm Khushboo, a pre-final year engineering undergrad and a programmer from India. I am a Frontend Web Developer with experience in handling JavaScript, React and Advanced CSS coding, designs and extensions. I have a decent knowledge of Data Structures and Algorithms in C++
 
-- I am interested in Web development and am currently working on my Javascript skills. 
-- Pronouns : She/Her 😄
-- I am looking to collaborate on projects
-- When I am not coding, you would find me reading 📖 or lettering some quotes ✍.
+Apart from development, I am an Open-Source enthusiast and have been a part of communities like Moja global, Codess cafe, Google DSC and Girlscript. I have also been one of the top contributors in Girlscript winter of contribution and Winter of Code 2.0. I also write Technical blogs regularly on [dev.to](https://dev.to/khush2706)
+
+I have a [portfolio website](http://sabkhush.me) that you should check out! In it, I have shared my work experience, projects, community work, and much mooore!
 
 <h3 align="left">Languages and Tools</h3>
-<!-- <p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p> -->
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,c,cpp,py,js,css,html,git,github,nextjs,react,supabase,tailwind,vercel" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,js,react,css,html,py,git,github,nextjs,supabase,bootstrap,tailwind,vercel" />
   </a>
 </p>
 
