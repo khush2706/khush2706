@@ -16,4 +16,4 @@ I have a [portfolio website](http://sabkhush.tech) that you should check out! In
 <p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=khush2706&show_icons=true&locale=en&theme=radical" alt="khush2706" /></p>
 
 
-<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=khush2706&" alt="khush2706" /></p>
+[comment]: <> (<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=khush2706&" alt="khush2706" /></p>)
