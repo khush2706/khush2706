@@ -3,7 +3,7 @@ I'm Khushboo, a final year engineering undergrad and a programmer from India. I 
 
 Apart from development, I am an Open-Source enthusiast and have been a part of communities like Moja global, Codess cafe, Google DSC and Girlscript. I have also been one of the top contributors in Girlscript winter of contribution and Winter of Code 2.0. I also write Technical blogs regularly on [dev.to](https://dev.to/khush2706)
 
-I have a [portfolio website](http://sabkhush.me) that you should check out! In it, I have shared my work experience, projects, community work, and much mooore!
+I have a [portfolio website](http://sabkhush.tech) that you should check out! In it, I have shared my work experience, projects, community work, and much mooore!
 
 <h3 align="left">Languages and Tools</h3>
 
