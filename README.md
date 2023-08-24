@@ -17,6 +17,3 @@ I have a [portfolio website](http://sabkhush.tech) that you should check out! In
 
 
 <p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=khush2706&" alt="khush2706" /></p>
-
-
-![Visitor Count](https://profile-counter.glitch.me/{khush2706}/count.svg)
