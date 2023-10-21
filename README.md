@@ -7,7 +7,7 @@ I'm a Front-end Developer 👩‍💻 with a passion for crafting stunning and f
 - Fun Facts about me:
   - I love the smell of 📖 and ☕
   - "I am no judge of music, but what I like I enjoy 🎶."
-  - Serial Binger 🪖
+  - Friends & Gilmore Girls Fanatic 💙.
 
 
 ### Languages and Tools
