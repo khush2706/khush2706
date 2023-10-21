@@ -1,19 +1,23 @@
-# Hello Fellow < Developers/ >! <img src="https://camo.githubusercontent.com/0092ad4434a6214e925eeddd36d7eb880ef2dae0be925304df2b743f30544a2c/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313538383137373032302f383830392f776176655f68656c6c6f2e6769663f31353838313737303230" width="80px" height="70px">
-I'm Khushboo, a final year engineering undergrad and a programmer from India. I am a Frontend Web Developer with experience in handling JavaScript, React and Advanced CSS coding, designs and extensions. I have a decent knowledge of Data Structures and Algorithms in C++
+# Hey 👋, I am [Khushboo](https://sabkhush.tech)
+I'm a Front-end Developer 👩‍💻 with a passion for crafting stunning and fluid user interactions 💜. Harboring the most ardent love for react and open-sourcery.
 
-Apart from development, I am an Open-Source enthusiast and have been a part of communities like Moja global, Codess cafe, Google DSC and Girlscript. I have also been one of the top contributors in Girlscript winter of contribution and Winter of Code 2.0. I also write Technical blogs regularly on [dev.to](https://dev.to/khush2706)
-
-I have a [portfolio website](http://sabkhush.tech) that you should check out! In it, I have shared my work experience, projects, community work, and much mooore!
-
-<h3 align="left">Languages and Tools</h3>
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,js,react,css,html,py,git,github,nextjs,supabase,bootstrap,tailwind,vercel" />
-  </a>
-</p>
-
-<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=khush2706&show_icons=true&locale=en&theme=radical" alt="khush2706" /></p>
+- ✈️ Hire me for freelancing :)
+- 🔭 I’m always trying to grow and learn something new.
+- 🌱 I write tech blogs on [dev.to](https://dev.to/khush2706)
+- Fun Facts about me:
+  - I love the smell of 📖 and ☕
+  - "I am no judge of music, but what I like I enjoy 🎶."
 
 
-[comment]: <> (<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=khush2706&" alt="khush2706" /></p>)
+### Languages and Tools
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=for-the-badge)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB&style=for-the-badge)
+![Node.js ](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB&style=for-the-badge)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?logo=vuedotjs&logoColor=%234FC08D&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white&style=for-the-badge)
+
+### Get in Touch
+<a href="https://www.linkedin.com/in/khush2706/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge"></a>
+<a href="https://twitter.com/khush__2706"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge"></a>
+
